@@ -55,7 +55,7 @@ p {
     justify-content: space-around;
 }
 .flex img {
-    width: 100%;
+    width: 20%;
     height: 200px;
     object-fit: contain;
 }
